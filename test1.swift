@@ -4,9 +4,9 @@ class Test {
         print("aaaa")
     }
     func b() {
-        print("aaaa")
+        print("bbb")
     }
     func c() {
-        print("aaaa")
+        print("cccc")
     }
 }
