@@ -6,6 +6,12 @@ class Test {
     func b() {
         print("bbb")
     }
+    func d() {
+        print("dddd")
+    }
+    func e() {
+        print("eeee")
+    }
     func c() {
         print("cccc")
     }
