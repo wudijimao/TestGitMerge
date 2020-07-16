@@ -7,6 +7,6 @@ class Test {
         print("bbbb")
     }
     func c() {
-        print("bbbb")
+        print("cccc")
     }
 }
