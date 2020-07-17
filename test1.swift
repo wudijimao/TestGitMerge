@@ -1,7 +1,7 @@
 
 class Test {
     func a() {
-        print("aaaa")
+        print("bbbb")
     }
     func b() {
         print("bbbb")
