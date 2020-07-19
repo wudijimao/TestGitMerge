@@ -5,6 +5,7 @@ class Test {
     }
     func b() {
         print("bbb")
+        print("bb3")
     }
     func d() {
         print("dddd")
