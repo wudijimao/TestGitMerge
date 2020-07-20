@@ -1,7 +1,8 @@
-.foo1 {
+.bar {
     margin: 0;
 }
 
-.bar {
+.foo1 {
     margin: 0;
+    color: green;
 }
